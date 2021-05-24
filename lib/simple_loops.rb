@@ -30,4 +30,5 @@ def return_string_array(arr)
     arr[i] = arr[i].to_s
     i += 1
   end
+  p arr
 end
