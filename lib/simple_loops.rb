@@ -27,7 +27,7 @@ end
 def return_string_array(arr)
   i = 0 
   while arr[i] do 
-    arr[i] = arr[i].to_s 
+    arr[i] = arr[i].to_s
     
     i += 1
   end
